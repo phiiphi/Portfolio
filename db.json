@@ -1,0 +1,16 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "name": "Teacher",
+        "default": false,
+        "status": null
+      },
+      {
+        "id": 2,
+        "name": "Dean",
+        "default": false,
+        "status": null
+      }
+    ]
+  }
